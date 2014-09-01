@@ -20,3 +20,4 @@ If you want to build your own Android VideoChat app, please do the following:<br
 
 6) copy credentials (App ID, Authorization key, Authorization secret) into your VideoChat project<br />
 7) Enjoy!
+
